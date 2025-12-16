@@ -23,8 +23,7 @@ Environmental elements subtly reflect this evolving interaction. Ambient lightin
 ## Video Documentation
 
 ▶️ **Project Video**  
-https://www.youtube.com/XXXXXXXXXXX  
-*(Replace with your actual link)*
+(https://youtu.be/U3J7lswDd6k)
 
 The video demonstrates first encounters, repeated interactions, persistent memory across sessions, and the final stabilized state of the system.
 
@@ -40,9 +39,6 @@ The system is implemented in Unity using C#. Core behaviors include:
 
 Relevant scripts are located in the `Scripts/` directory.
 
-## Writing Sample
-
-A reflective writing sample discussing intent, system design, interpretation, and future directions is included in the `Documentation/` folder.
 
 ## Context
 
