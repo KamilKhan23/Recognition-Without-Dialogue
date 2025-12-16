@@ -38,7 +38,7 @@ The system is implemented in Unity using C#. Core behaviors include:
 - Environmental response mapped to recognition state
 
 ## Documentation
-In the writing PDF the Purpose of this Project has been explained.
+In the writing sample PDF the Purpose of this Project has been explained.
 
 ## Context
 
