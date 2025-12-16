@@ -37,7 +37,6 @@ The system is implemented in Unity using C#. Core behaviors include:
 - Gaze behavior with eventual disengagement
 - Environmental response mapped to recognition state
 
-Relevant scripts are located in the `Scripts/` directory.
 
 
 ## Context
