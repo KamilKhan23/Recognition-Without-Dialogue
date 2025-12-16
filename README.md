@@ -37,7 +37,8 @@ The system is implemented in Unity using C#. Core behaviors include:
 - Gaze behavior with eventual disengagement
 - Environmental response mapped to recognition state
 
-
+## Documentation
+In the writing PDF the Purpose of this Project has been explained.
 
 ## Context
 
